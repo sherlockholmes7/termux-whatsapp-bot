@@ -1,10 +1,10 @@
 {
-    "botName": "BOT_NAME",
-    "ownerName": "OWNER_NAME",
-    "BarBarKey": "YOUR_APIKEY",
-    "ownerNumbers": "628885xxxxxx@s.whatsapp.net",
+    "botName": "Sherlock Bot",
+    "ownerName": "Itsmeandi",
+    "BarBarKey": "A4wJwkoSak82hj82NWo92",
+    "ownerNumbers": "6282292119677@s.whatsapp.net",
     "languages": "ind",
-    "botPrefix": ".",
-    "memberLimitss": "25",
-    "userDefaultLimit": "30"
+    "botPrefix": "botPrefix": "!",
+    "memberLimitss": "35",
+    "userDefaultLimit": "35"
 }
